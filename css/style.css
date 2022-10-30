@@ -239,7 +239,7 @@ body {
 }
 
 .decor-main__item--1 {
-  background: url(/img/dercor/shapes.svg) 0 0 no-repeat;
+  background: url('../img/dercor/shapes.svg') 0 0 no-repeat;
   width: 96px;
   height: 96px;
   top: 12%;
@@ -247,7 +247,7 @@ body {
 }
 
 .decor-main__item--2 {
-  background: url(/img/dercor/circles.svg) 0 0 no-repeat;
+  background: url('../img/dercor/circles.svg') 0 0 no-repeat;
   width: 284px;
   height: 284px;
   bottom: -9%;
@@ -255,7 +255,7 @@ body {
 }
 
 .decor-main__item--3 {
-  background: url(/img/dercor/shapes1.svg) 0 0 no-repeat;
+  background: url('../img/dercor/shapes1.svg') 0 0 no-repeat;
   width: 88px;
   height: 47px;
   top: 47%;
@@ -263,7 +263,7 @@ body {
 }
 
 .decor-main__item--4 {
-  background: url(/img/dercor/Vector.svg) 0 0 no-repeat;
+  background: url('../img/dercor/Vector.svg') 0 0 no-repeat;
   width: 61px;
   height: 61px;
   bottom: 21%;
@@ -271,7 +271,7 @@ body {
 }
 
 .decor-main__item--5 {
-  background: url(/img/dercor/shapes.svg) 0 0 no-repeat;
+  background: url('../img/dercor/shapes.svg') 0 0 no-repeat;
   width: 96px;
   height: 96px;
   top: -1.5%;
@@ -280,7 +280,7 @@ body {
 }
 
 .decor-main__item--6 {
-  background: url(/img/dercor/dots.svg) 0 0 no-repeat;
+  background: url('../img/dercor/dots.svg') 0 0 no-repeat;
   width: 187px;
   height: 137px;
   bottom: 18%;
@@ -349,7 +349,7 @@ body {
 
 .headline__text P {
   padding-left: 32px;
-  background: url(../icon/check.svg) 0px 5px / 15px 15px no-repeat;
+  background: url('../icon/check.svg') 0px 5px / 15px 15px no-repeat;
 }
 
 .headline__text P:not(:last-child) {
@@ -358,7 +358,7 @@ body {
 
 .decor-white__item--1 {
   position: absolute;
-  background: url(/img/dercor/dots1.svg) 0px 0px / cover no-repeat;
+  background: url('../img/dercor/dots1.svg') 0px 0px / cover no-repeat;
   width: 181px;
   height: 190px;
   top: 26.43%;
@@ -368,7 +368,7 @@ body {
 
 .decor-white__item--2 {
   position: absolute;
-  background: url(/img/dercor/dots1.svg) 0px 0px / cover no-repeat;
+  background: url('../img/dercor/dots1.svg') 0px 0px / cover no-repeat;
   width: 181px;
   height: 190px;
   top: 26.43%;
@@ -378,7 +378,7 @@ body {
 
 .decor-white__item--3 {
   position: absolute;
-  background: url(../img/dercor/dots2.svg) 0px 0px / cover no-repeat;
+  background: url('../img/dercor/dots2.svg') 0px 0px / cover no-repeat;
   width: 287px;
   height: 287px;
   top: 45.12%;
@@ -387,7 +387,7 @@ body {
 
 .decor-white__item--4 {
   position: absolute;
-  background: url(../img/dercor/dots2.svg) 0px 0px / cover no-repeat;
+  background: url('../img/dercor/dots2.svg') 0px 0px / cover no-repeat;
   width: 287px;
   height: 287px;
   top: 48.12%;
