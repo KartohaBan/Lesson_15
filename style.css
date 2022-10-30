@@ -366,16 +366,6 @@ body {
   transform: rotate(177deg);
 }
 
-.decor-white__item--2 {
-  position: absolute;
-  background: url('../img/dercor/dots1.svg') 0px 0px / cover no-repeat;
-  width: 181px;
-  height: 190px;
-  top: 26.43%;
-  left: 3%;
-  transform: rotate(177deg);
-}
-
 .decor-white__item--3 {
   position: absolute;
   background: url('../img/dercor/dots2.svg') 0px 0px / cover no-repeat;
